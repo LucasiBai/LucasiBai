@@ -1,7 +1,7 @@
 <h1>print("Hi devs! I'm Lucas 👋")</h1> 
 
-<h4>A self-motivated Fullstack Web Developer passionate about the IT world🙌, eager for big opportunities to create solutions and innovations.
-Currently creating apps with the strongest technologies💻, working especially with Python and Django, and their APIs libraries in BackEnd. In addition I feel comfortable developing with HTML, CSS, JavaScript and ReactJs in FrontEnd.
+<h4>A self-motivated Fullstack Web Developer passionate about the IT world🙌, eager for big opportunities to create solutions and innovations.<br>
+Currently creating apps with the strongest technologies💻, working especially with Python and Django, and their APIs libraries in BackEnd👨‍💻. In addition I feel comfortable developing with HTML, CSS, JavaScript and ReactJs in FrontEnd.
 </h4>
 
 ```python
