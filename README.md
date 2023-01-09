@@ -8,12 +8,16 @@ Currently creating apps with the strongest technologies💻, working especially 
 PROFILE_DATA = {
     "📫 Reach me on LinkedIn": "https://www.linkedin.com/in/lucasibaigorria/",
     "⌨️ Relevant Tools": [
-        "javascript",
-        "react",
         "python",
         "django",
         "rest_framework",
+        "javascript",
+        "react",
+        "angular",
+        "dart",
+        "flutter",
         "docker",
+        "sql",
     ],
 }
 ```
