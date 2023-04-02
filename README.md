@@ -7,6 +7,7 @@ Currently creating apps with the strongest technologies💻, working especially 
 ```python
 PROFILE_DATA = {
     "📫 Reach me on LinkedIn": "https://www.linkedin.com/in/lucasibaigorria/",
+    "📔 Studying": "Computer Science - FAMAF",
     "⌨️ Relevant Tools": [
         "python",
         "django",
@@ -18,6 +19,7 @@ PROFILE_DATA = {
         "flutter",
         "docker",
         "sql",
+        "haskell",
     ],
 }
 ```
