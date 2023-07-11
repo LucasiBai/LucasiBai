@@ -6,6 +6,10 @@ Currently creating apps with the strongest technologies💻.
 
 [![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,angular,react,nextjs,flutter,linux)](https://skillicons.dev)
 
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/lucasibaigorria/)
+
+<br></br>
+
 ```python
 PROFILE_DATA = {
     "💼 Working at": "Qubik Digital",
